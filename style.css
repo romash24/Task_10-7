@@ -1,0 +1,22 @@
+.calc-row {
+    height: 100vh;
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.input-window {
+    text-align: end;
+    font-size: x-large;
+}
+
+.row {
+    --bs-gutter-x: 0;
+}
+
+.botBtn {
+    width: 40%;
+}
+
+.output-history {
+    margin-top: 3px;
+    resize: none;
+}
